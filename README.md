@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=rootmannwright">
-    <img src="https://komarev.com/ghpvc/?username=rootmannwright&label=Profile%20views&color=00FFFF&style=flat-square" alt="rootmannwright's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=chasewright12">
+    <img src="https://komarev.com/ghpvc/?username=chasewright12&label=Profile%20views&color=00FFFF&style=flat-square" alt="ChaseWright's profile views" />
   </a>
 </p>
 
@@ -28,13 +28,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/rootmannwright">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rootmannwright&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="rootmannwright's GitHub Stats" />
+  <a href="https://github.com/chasewright12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ChaseWright's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rootmannwright&theme=dark&hide_border=true&cache_seconds=86400" alt="rootmannwright's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=chasewright12&theme=dark&hide_border=true&cache_seconds=86400" alt="ChaseWright's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rootmannwright&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lucas Marques's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=chasewright12&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lucas Marques's GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -97,8 +97,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rootmannwright">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rootmannwright&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/chasewright12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chasewright12&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
