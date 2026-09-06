@@ -3,18 +3,19 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chasewright12">
-    <img src="https://komarev.com/ghpvc/?username=chasewright12&label=Profile%20views&color=00FFFF&style=flat-square" alt="ChaseWright's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=chasewright12&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views counter for ChaseWright" />
   </a>
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpiZWtucTlyNDFqMWg2cTE2OHBxb3R0eWFrMWlna3FybGczNmc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w8pZxPEBXlpt97Brjp/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpiZWtucTlyNDFqMWg2cTE2OHBxb3R0eWFrMWlna3FybGczNmc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w8pZxPEBXlpt97Brjp/giphy.gif" alt="Animated decorative banner with an abstract digital design, creating an energetic technology-themed atmosphere" width="100%" />
 
 ## 📌 About Me
+
 - I'm a Computer Science student passionate about building scalable, secure and reliable software.
 - I enjoy working mainly with backend development, designing APIs, exploring software architecture, databases and distributed systems.
 
-
 ## 🧠 My Focus Areas
+
 - Software Developer
 - Mobile Developer
 - Backend Developer
@@ -25,21 +26,29 @@
 - Pentester
 - DevOps
 
-
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/chasewright12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ChaseWright's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GitHub statistics for ChaseWright, presented as a dark themed dashboard of repository activity" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=chasewright12&theme=dark&hide_border=true&cache_seconds=86400" alt="ChaseWright's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=chasewright12&theme=dark&hide_border=true&cache_seconds=86400" alt="ChaseWright GitHub contribution streak, presented in a dark themed statistics panel" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=chasewright12&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lucas Marques's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=chasewright12&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub achievement trophies earned by Lucas Marques, arranged in a dark themed row" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="Three dimensional cityscape visualizing GitHub contribution activity across a colorful digital landscape" width="100%" />
 </div>
 
+##
+
+<P align="center">
+<tr>
+<td><img src="https://s01.flagcounter.com/countxl/FVph/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_5/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag counter displaying visitor countries in a compact grid" border="0"></td>
+</tr>
+</table>
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -96,36 +105,48 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/chasewright12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chasewright12&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+##
+<div align="center">
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chasewright12&layout=compact)
+
+</div>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasmarquesdev/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn profile link" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/5511930091377">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp contact link" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:rootmannwright@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email contact link for Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="linktr.ee/patrondev">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Personal website link" width="40" />
   </a>
 </p>
 
 ## 💬 Quote
-> De crudelitate et pietate; et an sit melius amari quam timeri, vel e contra.
+
+<!-- Credits by PiyushSuthar.
+    THANKS MY FRIEND!!!
+ -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/chasewright12/github-readme-quotes)
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Animated space shooter game showing a spacecraft moving through a star-filled environment with an energetic arcade tone" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Animated decorative bottom banner with a bright colorful digital pattern and upbeat atmosphere" width="100%" />
 </div>
 
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</div>
