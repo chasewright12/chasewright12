@@ -7,7 +7,9 @@
   </a>
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpiZWtucTlyNDFqMWg2cTE2OHBxb3R0eWFrMWlna3FybGczNmc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w8pZxPEBXlpt97Brjp/giphy.gif" alt="Animated decorative banner with an abstract digital design, creating an energetic technology-themed atmosphere" width="100%" />
+<div align="center">
+<img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpiZWtucTlyNDFqMWg2cTE2OHBxb3R0eWFrMWlna3FybGczNmc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w8pZxPEBXlpt97Brjp/giphy.gif" alt="Animated decorative banner with an abstract digital design, creating an energetic technology-themed atmosphere" width="100%" />
+</div>
 
 ## 📌 About Me
 
