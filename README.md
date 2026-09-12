@@ -135,12 +135,8 @@
     THANKS MY FRIEND!!!
  -->
 <div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Readme Quotes"
-    width="500"
-    style="max-width: 100%; height: auto;"
-  >
+
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=buefy&animation=grow_out_in&layout=samuel&font=Redressed&quoteType=quote-for-the-day&fontColor=black)
 </div>
 
 <p align="center">
