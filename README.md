@@ -1,6 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=San+Francisco&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Chase12;Software+Engineer;TypeScript+%7C+JavaScript;Java+%7C+C+%7C+MySQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Azure+%7C+Postman)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
@@ -38,8 +39,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=chasewright12&theme=dark&hide_border=true&cache_seconds=86400" alt="ChaseWright GitHub contribution streak, presented in a dark themed statistics panel" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=chasewright12&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub achievement trophies earned by Lucas Marques, arranged in a dark themed row" />
+
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="Three dimensional cityscape visualizing GitHub contribution activity across a colorful digital landscape" width="100%" />
@@ -110,6 +110,7 @@
 </p>
 
 ##
+
 <div align="center">
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chasewright12&layout=compact)
@@ -140,7 +141,8 @@
  -->
 <div align="center">
 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 <p align="center">
