@@ -134,10 +134,13 @@
 <!-- Credits by PiyushSuthar.
     THANKS MY FRIEND!!!
  -->
-<div align="center" style="max-width: 500px; margin: 0 auto;">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/chasewright12/github-readme-quotes)
-
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Readme Quotes"
+    width="500"
+    style="max-width: 100%; height: auto;"
+  >
 </div>
 
 <p align="center">
