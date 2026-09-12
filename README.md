@@ -134,7 +134,7 @@
 <!-- Credits by PiyushSuthar.
     THANKS MY FRIEND!!!
  -->
- <div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/chasewright12/github-readme-quotes)
 
