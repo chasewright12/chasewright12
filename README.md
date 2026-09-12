@@ -136,7 +136,7 @@
  -->
 <div align="center">
 
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=buefy&animation=grow_out_in&layout=samuel&font=Redressed&quoteType=quote-for-the-day&fontColor=black)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 <p align="center">
