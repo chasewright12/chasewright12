@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Lucas Marques</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=San+Francisco&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Chase12;Software+Engineer;TypeScript+%7C+JavaScript;Java+%7C+C+%7C+MySQL+%7C+MongoDB;AWS+%7C+Docker+%7C+Azure+%7C+Postman)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chasewright12">
