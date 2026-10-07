@@ -110,11 +110,9 @@
 </p>
 
 ##
-
 <div align="center">
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chasewright12&layout=compact)
-
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=chasewright12&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 </div>
 
 ## 🔗 Connect with Me
