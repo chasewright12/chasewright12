@@ -50,9 +50,9 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&show_icons=true&theme=onedark&border_radius=10&hide_border=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&show_icons=true&theme=onedark&border_radius=10&hide_border=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chasewright12&layout=compact&theme=onedark&border_radius=10&hide_border=true" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com/?user=chasewright12&theme=onedark&hide_border=true&border_radius=10" alt="GitHub contribution streak" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=chasewright12&theme=onedark&hide_border=true&border_radius=10" alt="GitHub contribution streak" width="50%" />
 </div>
 
 ##
