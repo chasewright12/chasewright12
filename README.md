@@ -39,13 +39,16 @@
 
 ## 🎯 Focus Areas
  
-| Area | What I do |
-|---|---|
-| **Backend & APIs** | RESTful design, authentication, validation, observability |
-| **Databases** | MySQL, PostgreSQL, MongoDB — modeling and query design |
-| **Web & Mobile** | React, Tailwind, responsive interfaces |
-| **DevOps & Cloud** | Docker, Kubernetes, AWS, Azure |
-| **Security** | Pentesting fundamentals, secure-by-default APIs |
+| Area | What I do | Time
+|---|---|---|
+| **Programming** | JavaScript, TypeScript, Java, C | 3 years
+| **Backend & APIs** | RESTful design, authentication, validation, observability | 4 years
+| **Databases** | MySQL, PostgreSQL, MongoDB — modeling and query design | 4 years
+| **Web & Mobile** | React, Tailwind, responsive interfaces | 2 years
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, Azure | 3 years
+| **Security** | Pentesting fundamentals, secure-by-default APIs | 2 years
+
+⚠️**Note:** Most of my programming experience comes from independent projects, self-directed learning, and hands-on development rather than formal employment. The timeframes reflect my overall practical experience, not years of professional employment.
 
 ## 📊 GitHub Stats
  
