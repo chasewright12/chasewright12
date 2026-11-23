@@ -31,7 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chasewright12&repo=chaseboyemu)](https://github.com/chasewright12/chaseboyemu)
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chasewright12&repo=sermoni)](https://github.com/chasewright12/sermoni)
+[ ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chasewright12&repo=sermoni)](https://github.com/chasewright12/sermoni)
 </a>
 
 </div>
