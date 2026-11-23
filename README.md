@@ -50,9 +50,10 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chasewright12&show_icons=true&theme=onedark&border_radius=10&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chasewright12&layout=compact&theme=onedark&border_radius=10&hide_border=true" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com/?user=chasewright12&theme=onedark&hide_border=true&border_radius=10" alt="GitHub contribution streak" width="50%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=chasewright12&theme=tokyonight&hide_border=true)
 </div>
 
 ##
@@ -133,8 +134,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzMyY2p6Zmk4bDBndmI4eHp6N3o5bGt4MDdjcnNmN2plNDY4YjVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif">
+</img>
 
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=95&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&strokeWidth=41&desc=If+you+like+something+here%2C+drop+a+star+%E2%80%94+and+feel+free+to+reach+out%21&descSize=20&descAlign=50&descAlignY=60" alt="Footer speech" width="100%" />
+</div>
 
 </div>
