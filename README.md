@@ -51,9 +51,12 @@
  
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<br>
 ![GitHub Stats](https://streak-stats.demolab.com?user=chasewright12&theme=tokyonight&hide_border=true)
+
 </div>
 
 ##
