@@ -54,11 +54,11 @@
  
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chasewright12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<br>
-![GitHub Stats](https://streak-stats.demolab.com?user=chasewright12&theme=tokyonight&hide_border=true)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=chasewright12&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10)](https://github.com/chasewright12)
+
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=chasewright12&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/chasewright12)
+
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=chasewright12&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=10)](https://nice-readme.vercel.app/wakatime)
 
 </div>
 
@@ -139,10 +139,9 @@
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzMyY2p6Zmk4bDBndmI4eHp6N3o5bGt4MDdjcnNmN2plNDY4YjVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif">
-</img>
-
 </div>
-
+<div align="center">
+  <legend><strong>That's all friends.</strong></legend>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwN2xvNzZ3bHlsdXlibWgwZzVxbHcxNWpnbDRiN3Y4cmRva2RjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Em94upA57KaZO/giphy.gif">
+</div>
 </div>
