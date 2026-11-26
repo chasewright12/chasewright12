@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   update-readme:
@@ -15,23 +15,24 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Validate GitHub PAT
+      - name: Validate GitHub authentication
         env:
           GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
         run: |
-          if [ -z "$GH_TOKEN" ]; then
-            echo "::error::WAKA_GITHUB_PAT is missing"
-            exit 1
-          fi
-
-          echo "Checking GitHub authentication..."
           gh api user --jq '.login'
 
       - name: Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
+
+        env:
+          INPUT_GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
+          INPUT_PUSH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
+          INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
+          PUSH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SECTION_NAME: "waka"
           LOCALE: "en"
@@ -59,4 +60,5 @@ jobs:
           BAR_TRACK_COLOR: "#21262D"
           BAR_RADIUS: "4"
 
+          COMMIT_SINGLE: "False"
           DEBUG_LOGGING: "False"
