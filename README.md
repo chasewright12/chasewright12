@@ -58,8 +58,7 @@
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=chasewright12&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/chasewright12)
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=chasewright12&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=10)](https://nice-readme.vercel.app/wakatime)
-
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=be5f0384-a2e0-491d-a005-a093d193e718&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=10)](https://wakatime.com/@be5f0384-a2e0-491d-a005-a093d193e718)
 </div>
 
 ##
