@@ -65,27 +65,32 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%207%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
+```text
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">C</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 42 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="317" height="8" rx="4" fill="#2F81F7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">87.99%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Makefile</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="32" height="8" rx="4" fill="#2F81F7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">8.90%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Text</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">5 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="54" width="10" height="8" rx="4" fill="#2F81F7"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">2.74%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="78" width="1" height="8" rx="4" fill="#2F81F7"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.36%</text></svg>
+C                        2 hrs 42 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.99 % 
+Makefile                 16 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.90 % 
+Text                     5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.74 % 
+Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 4 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#2F81F7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+VS Code                  3 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">gbemu</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 3 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="359" height="8" rx="4" fill="#2F81F7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">99.64%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">rootmannwright</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="1" height="8" rx="4" fill="#2F81F7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.36%</text></svg>
+gbemu                    3 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.64 % 
+rootmannwright           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">WSL</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 4 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#2F81F7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+WSL                      3 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 
 
-
- Last Updated on 26/11/2026 07:16:54 UTC
+ Last Updated on 26/11/2026 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
