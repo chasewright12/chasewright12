@@ -142,6 +142,7 @@
 </div>
 <div align="center">
   <legend><strong>That's all friends.</strong></legend>
+  <br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwN2xvNzZ3bHlsdXlibWgwZzVxbHcxNWpnbDRiN3Y4cmRva2RjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Em94upA57KaZO/giphy.gif">
 </div>
 </div>
