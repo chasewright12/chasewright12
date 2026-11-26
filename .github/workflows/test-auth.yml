@@ -1,0 +1,35 @@
+name: Test GitHub Authentication
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-auth:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check PAT
+        env:
+          GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Token is missing"
+            exit 1
+          fi
+
+          if [[ "$GH_TOKEN" == ghp_* ]]; then
+            echo "Token type: Classic PAT"
+          elif [[ "$GH_TOKEN" == github_pat_* ]]; then
+            echo "Token type: Fine-grained PAT"
+          elif [[ "$GH_TOKEN" == ghs_* ]]; then
+            echo "::error::Token type: Installation token"
+            exit 1
+          else
+            echo "Token type: Unknown"
+          fi
+
+          echo "Testing GitHub API..."
+          gh api user --jq '.login'
