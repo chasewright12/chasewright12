@@ -12,12 +12,13 @@ jobs:
   update-readme:
     name: Update Development Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
@@ -32,6 +33,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_AI_CODE_TIME: "False"
-          SHOW_AI_CODING: "False"
           SHOW_UPDATED_DATE: "True"
+
+          SECTION_NAME: "waka"
+          LOCALE: "en"
