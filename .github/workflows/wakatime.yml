@@ -15,12 +15,14 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      # GitHub Authentication
       - name: Validate GitHub authentication
         env:
           GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
         run: |
           gh api user --jq '.login'
 
+      # Generate Development Statistics
       - name: Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
 
@@ -30,35 +32,51 @@ jobs:
           INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
         with:
+          # Authentication
           GH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
           PUSH_TOKEN: ${{ secrets.WAKA_GITHUB_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
+          # General Configuration
           SECTION_NAME: "waka"
           LOCALE: "en"
 
+          # Development Environment
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_TIMEZONE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
 
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
+          # Coding Statistics
+          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+
+          # Productivity Statistics
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+
+          # AI Statistics
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
+
+          # Profile Information
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+
+          # Visual Customization
+          SYMBOL_VERSION: "2"
+          BADGE_STYLE: "flat-square"
+
+          # Date Configuration
           SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y"
 
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#2F81F7"
-          BAR_TRACK_COLOR: "#21262D"
-          BAR_RADIUS: "4"
-
+          # Commit Configuration
           COMMIT_SINGLE: "False"
+          COMMIT_MESSAGE: "chore: update development statistics"
+
+          # Debug Configuration
           DEBUG_LOGGING: "False"
